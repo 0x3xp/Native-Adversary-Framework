@@ -40,22 +40,22 @@ Deep analysis of binary vulnerabilities and the Portable Executable (PE) format.
 
 ```text
 📂 Native-Adversary-Framework
-├── 📂 00-Assembly-Lab          # Low-Level Foundations, Technical Briefs, and PoC Snippets
+├── 📂 Assembly-Lab             # Low-Level Foundations, Technical Briefs, and PoC Snippets
 │   ├── 📂 Technical-Briefs     # Architecture notes, Win64 calling conventions, and ISA theory
 │   └── 📂 PoC-Snippets         # Raw .asm samples, register experiments, and logic tests
-├── 📂 01-Exploit-Dev           # x64 Shellcode, ROP Chains, and Memory Corruption
+├── 📂 Core-Engine              # Pure C/C++ Headers, Internal Structs (PEB/TEB), and Hash Logic
+│   └── 📂 Cryptography         # Low-level XOR and encryption routines for obfuscation
+├── 📂 Exploit-Dev              # x64 Shellcode, ROP Chains, and Memory Corruption
 │   ├── 📂 HTB-x86-Windows-BO   # Lab logs and exploit development for HTB challenges
 │   ├── 📂 Exploits             # Proof-of-concept code for identified vulnerabilities
 │   ├── 📂 Fuzzers              # Custom scripts for automated vulnerability discovery
 │   ├── 📂 Shellcode-Runners    # C/C++ implementations for in-memory payload execution
 │   └── 📂 Shellcodes           # Custom assembly stubs and PEB-walking API resolvers
-├── 📂 02-Malware-Dev           # Injection, Persistence, and Evasion Modules
+├── 📂 Malware-Dev              # Injection, Persistence, and Evasion Modules
 │   ├── 📂 Delivery             # Modules for initial access payloads and dropper stubs
 │   ├── 📂 Evasion              # Research and implementation of AV/EDR bypass techniques
 │   ├── 📂 Injection            # Source code for process injection and thread hijacking
 │   └── 📂 Recon                # Environmental keying and sandbox detection modules
-├── 📂 03-Reverse-Engineering   # Custom PE Parsers, Binary Analysis, and RE Writeups
-│   ├── 📂 Binary               # Collection of crackmes and binaries for analysis practice
-│   └── 📂 Writeups             # Detailed technical walkthroughs of the RE process
-└── 📂 04-Core-Engine              # Pure C/C++ Headers, Internal Structs (PEB/TEB), and Hash Logic
-    └── 📂 Cryptography         # Low-level XOR and encryption routines for obfuscation
+└── 📂 Reverse-Engineering       # Custom PE Parsers, Binary Analysis, and RE Writeups
+    ├── 📂 Binary               # Collection of crackmes and binaries for analysis practice
+    └── 📂 Writeups             # Detailed technical walkthroughs of the RE process
