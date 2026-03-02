@@ -40,6 +40,7 @@ Deep analysis of binary vulnerabilities and the Portable Executable (PE) format.
 
 ```text
 📂 Native-Adversary-Framework
+├── 📂 00-Assembly-Lab         # Low-Level Foundations, Technical Briefs, and PoC Snippets
 ├── 📂 01-Exploit-Dev          # x64 Shellcode, ROP Chains, and Memory Corruption
 ├── 📂 02-Malware-Dev          # Injection, Persistence, and Evasion Modules
 ├── 📂 03-Reverse-Engineering  # Custom PE Parsers, Binary Analysis, and RE Writeups
