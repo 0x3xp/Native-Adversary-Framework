@@ -56,6 +56,6 @@ Deep analysis of binary vulnerabilities and the Portable Executable (PE) format.
 │   ├── 📂 Evasion              # Research and implementation of AV/EDR bypass techniques
 │   ├── 📂 Injection            # Source code for process injection and thread hijacking
 │   └── 📂 Recon                # Environmental keying and sandbox detection modules
-└── 📂 Reverse-Engineering       # Custom PE Parsers, Binary Analysis, and RE Writeups
+└── 📂 Reverse-Engineering      # Custom PE Parsers, Binary Analysis, and RE Writeups
     ├── 📂 Binary               # Collection of crackmes and binaries for analysis practice
     └── 📂 Writeups             # Detailed technical walkthroughs of the RE process
