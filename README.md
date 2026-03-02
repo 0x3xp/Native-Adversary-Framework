@@ -57,5 +57,5 @@ Deep analysis of binary vulnerabilities and the Portable Executable (PE) format.
 ├── 📂 03-Reverse-Engineering   # Custom PE Parsers, Binary Analysis, and RE Writeups
 │   ├── 📂 Binary               # Collection of crackmes and binaries for analysis practice
 │   └── 📂 Writeups             # Detailed technical walkthroughs of the RE process
-└── 📂 Core-Engine              # Pure C/C++ Headers, Internal Structs (PEB/TEB), and Hash Logic
+└── 📂 04-Core-Engine              # Pure C/C++ Headers, Internal Structs (PEB/TEB), and Hash Logic
     └── 📂 Cryptography         # Low-level XOR and encryption routines for obfuscation
