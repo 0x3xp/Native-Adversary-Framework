@@ -4,12 +4,12 @@
 **Portfolio:** [0x3xp.github.io](https://0x3xp.github.io) | **GitHub:** [github.com/0x3xp](https://github.com/0x3xp)
 
 ---
-
-// Author: Piyusha Akash (0x3xp) | https://0x3xp.github.io
-// GitHub: https://github.com/0x3xp
-// Project: Basic C2 Socket Framework (Research & Education)
-// Disclaimer: This code is for educational purposes and authorized security testing only.
-
+```md
+Author: Piyusha Akash (0x3xp) | https://0x3xp.github.io
+GitHub: https://github.com/0x3xp
+Project: Basic C2 Socket Framework (Research & Education)
+Disclaimer: This code is for educational purposes and authorized security testing only.
+```
 ---
 
 ## 📌 Project Overview
