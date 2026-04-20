@@ -1,3 +1,5 @@
+![Native-Adversary-Framework](assets/native_adversary_framework_banner.svg)
+
 # Native-Adversary-Framework
 ### 🛠️ Advanced Research Lab: Windows Internals, Exploit Dev & Malware Engineering
 
@@ -9,8 +11,6 @@
 **Native-Adversary-Framework** is a professional-grade research repository documenting my work in offensive security and low-level systems programming. This project showcases the synergy between **C**, **C++**, and **x64 Assembly** to subvert modern Windows security mitigations by interacting directly with the OS's internal structures.
 
 ---
-![Native-Adversary-Framework](assets/native_adversary_framework_banner.svg)
-
 
 ## 🔬 Core Technical Pillars
 
